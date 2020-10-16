@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6c4aadb-0a90-4333-958d-d9f8fb53323b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/infraestrutura/crud/cliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/infraestrutura/crud/cliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infraestrutura/database/queries.js" beforeDir="false" afterPath="$PROJECT_DIR$/infraestrutura/database/queries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infraestrutura/operations.js" beforeDir="false" afterPath="$PROJECT_DIR$/infraestrutura/operations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/schema.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/infraestrutura/crud/cliente.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/server.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/infraestrutura/operations.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/infraestrutura/database/queries.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1iw4LEzqpoI9MrIEeW2yjRF6mYi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c4aadb-0a90-4333-958d-d9f8fb53323b" name="Default Changelist" comment="" />
+      <created>1602805271365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602805271365</updated>
+      <workItem from="1602805281204" duration="2068000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602805606552">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="1920" y="59" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1366.768/0.27.1920.1053@1920.0.1366.768" timestamp="1602805606552" />
+    <state x="1920" y="0" width="616" height="768" key="find.popup" timestamp="1602806740238">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="1920" y="0" width="616" height="768" key="find.popup/1920.0.1366.768/0.27.1920.1053@1920.0.1366.768" timestamp="1602806740238" />
+  </component>
+</project>
